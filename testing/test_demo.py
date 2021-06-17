@@ -24,7 +24,6 @@ class TestDemo:
     def teardown(self):
         print("function teardown")
 
-
     def test_demo(self):
         print("testing")
 
